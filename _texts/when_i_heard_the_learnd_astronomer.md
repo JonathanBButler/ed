@@ -5,8 +5,8 @@ author: Walt Whitman
 Source: https://www.poetryfoundation.org/poems/45479/when-i-heard-the-learnd-astronomer
 ---
 
-When I Heard the Learn’d Astronomer 
-BY WALT WHITMAN
+# When I Heard the Learn’d Astronomer H1
+*BY WALT WHITMAN*
 When I heard the learn’d astronomer, 
 When the proofs, the figures, were ranged in columns before me, 
 When I was shown the charts and diagrams, to add, divide, and measure them, 
