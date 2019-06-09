@@ -1,3 +1,10 @@
+---
+layout:poem
+title: When I Heard the Learn'd Astronomer
+author: Walt Whitman
+Source: https://www.poetryfoundation.org/poems/45479/when-i-heard-the-learnd-astronomer
+---
+
 When I Heard the Learn’d Astronomer 
 BY WALT WHITMAN
 When I heard the learn’d astronomer, 
